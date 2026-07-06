@@ -14,9 +14,16 @@ body{
 	padding-bottom: 24px;
 	padding-left:	24px;
 	padding-right:  24px;
+	
 }
 
 html{
-	background: radial-gradient(gray);
+	background-image: url("../images/campus.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
 }
+
+
 	
